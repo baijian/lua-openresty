@@ -1,2 +1,1 @@
-
 ngx.say("hello world~");
