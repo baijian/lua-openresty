@@ -4,3 +4,6 @@ client_body_temp
 fastcgi_temp
 proxy_temp
 uwsgi_temp
+
+*.lua
+nginx.conf.compiled
